@@ -1,0 +1,8 @@
+{
+  "name": "api-login",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/hercobulus/api-login.git",
+  "author": "Daniel Miranda <danielmiranda132@yahoo.com>",
+  "license": "MIT"
+}
